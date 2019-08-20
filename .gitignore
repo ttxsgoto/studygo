@@ -1,0 +1,8 @@
+.idea
+*.log
+*.err
+*.out
+*.pid
+bin
+pkg
+src
