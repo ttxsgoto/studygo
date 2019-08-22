@@ -11,6 +11,9 @@ type Abser interface {
 	Abs() float64
 }
 
+type Test interface {
+}
+
 type MyFloat float64
 
 type Vertex struct {
