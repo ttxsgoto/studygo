@@ -53,6 +53,7 @@ func main() {
 		}
 		fmt.Printf("For Char count:%d\n", count.Chcount)
 	}
+	// 15 minte
 	fmt.Printf("Char count:%d\n", count.Chcount)
 
 }
